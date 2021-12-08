@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WLd/0ICk6qWHLLbo4tneTxKfmHQt8Cy68dlwPfIBZOOlKGNdipIx2w4A65sLGb8H01oa5XjdRpVpSRJ1zS+ACw==",
+  "success": true,
+  "projectFilePath": "D:\\Proje\\VitrinRapor\\VitrinConsole\\VitrinConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hsynd\\.nuget\\packages\\htmlagilitypack\\1.11.39\\htmlagilitypack.1.11.39.nupkg.sha512",
+    "C:\\Users\\hsynd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

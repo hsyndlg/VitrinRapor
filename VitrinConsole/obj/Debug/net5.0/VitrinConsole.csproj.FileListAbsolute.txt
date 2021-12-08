@@ -1,0 +1,17 @@
+D:\Proje\VitrinRapor\VitrinConsole\bin\Debug\net5.0\VitrinConsole.exe
+D:\Proje\VitrinRapor\VitrinConsole\bin\Debug\net5.0\VitrinConsole.deps.json
+D:\Proje\VitrinRapor\VitrinConsole\bin\Debug\net5.0\VitrinConsole.runtimeconfig.json
+D:\Proje\VitrinRapor\VitrinConsole\bin\Debug\net5.0\VitrinConsole.runtimeconfig.dev.json
+D:\Proje\VitrinRapor\VitrinConsole\bin\Debug\net5.0\VitrinConsole.dll
+D:\Proje\VitrinRapor\VitrinConsole\bin\Debug\net5.0\VitrinConsole.pdb
+D:\Proje\VitrinRapor\VitrinConsole\bin\Debug\net5.0\HtmlAgilityPack.dll
+D:\Proje\VitrinRapor\VitrinConsole\obj\Debug\net5.0\VitrinConsole.csproj.AssemblyReference.cache
+D:\Proje\VitrinRapor\VitrinConsole\obj\Debug\net5.0\VitrinConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proje\VitrinRapor\VitrinConsole\obj\Debug\net5.0\VitrinConsole.AssemblyInfoInputs.cache
+D:\Proje\VitrinRapor\VitrinConsole\obj\Debug\net5.0\VitrinConsole.AssemblyInfo.cs
+D:\Proje\VitrinRapor\VitrinConsole\obj\Debug\net5.0\VitrinConsole.csproj.CoreCompileInputs.cache
+D:\Proje\VitrinRapor\VitrinConsole\obj\Debug\net5.0\VitrinConsole.dll
+D:\Proje\VitrinRapor\VitrinConsole\obj\Debug\net5.0\refint\VitrinConsole.dll
+D:\Proje\VitrinRapor\VitrinConsole\obj\Debug\net5.0\VitrinConsole.pdb
+D:\Proje\VitrinRapor\VitrinConsole\obj\Debug\net5.0\VitrinConsole.genruntimeconfig.cache
+D:\Proje\VitrinRapor\VitrinConsole\obj\Debug\net5.0\ref\VitrinConsole.dll
