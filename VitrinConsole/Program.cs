@@ -11,14 +11,22 @@ namespace VitrinConsole
         static List<Advert> adverts; // İlan listesi
         static void Main(string[] args)
         {
-            // VitrinSave();
+            VitrinSave();
 
-            // CreateTitlesUrlsTxt();
+            CreateTitlesUrlsTxt();
             
-            // CreatePricesTxt();
+            CreatePricesTxt();
 
             ParseModel();
 
+            RaporPrint();
+        }
+
+        /// <summary>
+        ///     İlanları ve ortalama fiyatı console'a bastırır.
+        /// </summary>
+        static void RaporPrint()
+        {
             foreach (var advert in adverts)
             {
                 System.Console.WriteLine(advert.Url);
@@ -29,6 +37,7 @@ namespace VitrinConsole
 
             Console.WriteLine("Ortalama Fiyat: "+TotalAverage());
         }
+
         /// <summary>
         ///     Title.txt ve urls.txt dosyasını oluşturur.
         /// </summary>
